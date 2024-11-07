@@ -45,6 +45,6 @@ h2 {
 
 /* Hover effect */
 .virtual-tour-btn:hover {
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: #333;
 }

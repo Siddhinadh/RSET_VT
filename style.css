@@ -13,8 +13,8 @@ body {
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    background-color: #333;
-    color: #333;
+    background-color: #000;
+    color: #fff;
     text-align: center;
 }
 
@@ -22,22 +22,22 @@ body {
 h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
-    color: #333;
+    color: #fff;
 }
 
 h2 {
     font-size: 2rem;
     margin-bottom: 2rem;
-    color: #333333;
+    color: #fff;
 }
 
 /* Button styling */
 .virtual-tour-btn {
     padding: 0.8rem 2rem;
     font-size: 1.2rem;
-    color: #333;
-    background-color: #333;
-    border: 2px solid #333;
+    color: #fff;
+    background-color: #000;
+    border: 2px solid #000;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
@@ -46,5 +46,5 @@ h2 {
 /* Hover effect */
 .virtual-tour-btn:hover {
     background-color: #fff;
-    color: #333;
+    color: #000;
 }

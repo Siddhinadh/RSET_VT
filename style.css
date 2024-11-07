@@ -28,14 +28,14 @@ h1 {
 h2 {
     font-size: 2rem;
     margin-bottom: 2rem;
-    color: #ffffff;
+    color: #333333;
 }
 
 /* Button styling */
 .virtual-tour-btn {
     padding: 0.8rem 2rem;
     font-size: 1.2rem;
-    color: #000000;
+    color: #333;
     background-color: #ffff;
     border: 2px solid #ffffff;
     border-radius: 5px;
@@ -45,6 +45,6 @@ h2 {
 
 /* Hover effect */
 .virtual-tour-btn:hover {
-    background-color: #000000;
-    color: #333;
+    background-color: #333;
+    color: #fff;
 }

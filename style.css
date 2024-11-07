@@ -28,7 +28,7 @@ h1 {
 h2 {
     font-size: 2rem;
     margin-bottom: 2rem;
-    color: #333;
+    color: #ffffff;
 }
 
 /* Button styling */
@@ -36,8 +36,8 @@ h2 {
     padding: 0.8rem 2rem;
     font-size: 1.2rem;
     color: #ffffff;
-    background-color: #333;
-    border: 2px solid #333;
+    background-color: #ffff;
+    border: 2px solid #ffffff;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
@@ -45,6 +45,6 @@ h2 {
 
 /* Hover effect */
 .virtual-tour-btn:hover {
-    background-color: #ffffff;
+    background-color: #000000;
     color: #333;
 }
